@@ -1,5 +1,5 @@
 # Dungeon-Game
-A simple turn-based game tbat uses poker cards as enemies, weapons, and potions. 
+A simple turn-based game that uses poker cards as enemies, weapons, and potions. 
 You can learn the rules of the game by watching the below video:
 The idea and rules of the game are by Riffle Shuffle & Roll @ https://youtu.be/7fP-QLtWQZs?si=qt-RKQvh0IA8nvTX
 
