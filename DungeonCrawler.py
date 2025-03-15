@@ -1,5 +1,5 @@
 from random import randint
-from Games.cards_and_deck import Card, Deck
+from cards_and_deck import Card, Deck
 
 
 
